@@ -102,8 +102,8 @@ The dataset was cleaned and transformed using Python.
 ## 📷 Dashboard Preview
 
 ```
-images/dashboard.png
-```
+
+![Dashboard Preview](Dashboard/dashboard.jpg)
 
 ---
 

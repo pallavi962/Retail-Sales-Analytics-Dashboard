@@ -103,7 +103,7 @@ The dataset was cleaned and transformed using Python.
 
 ```
 
-<img width="814" height="435" alt="image" src="https://github.com/user-attachments/assets/1e1e17ae-a78b-46f0-bc03-eb19637e878d" />
+![Dashboard Preview](Dashboard/dashboard.jpg)
 
 
 ```

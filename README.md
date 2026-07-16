@@ -105,7 +105,7 @@ The dataset was cleaned and transformed using Python.
 
 ![Dashboard Preview](Dashboard/dashboard.jpg)
 
----
+```
 
 ## 📌 Dashboard Highlights
 

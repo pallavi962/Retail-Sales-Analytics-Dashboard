@@ -103,7 +103,7 @@ The dataset was cleaned and transformed using Python.
 
 ```
 
-![Dashboard](Dashboard/dashboard.jpg)
+(Dashboard/dashboard.jpg)
 
 ```
 

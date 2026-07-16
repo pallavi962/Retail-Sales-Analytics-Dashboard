@@ -103,6 +103,7 @@ The dataset was cleaned and transformed using Python.
 
 ```
 ![Retail Sales Analytics Dashboard](Dashboard/dashboard.JPG)
+
 ```
 
 ---

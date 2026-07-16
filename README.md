@@ -102,7 +102,7 @@ The dataset was cleaned and transformed using Python.
 ## 📷 Dashboard Preview
 
 ```
-images/dashboard.png
+![Retail Sales Analytics Dashboard](Dashboard/dashboard.jpg)
 ```
 
 ---
